@@ -61,6 +61,13 @@ Dado que este sistema está destinado a ser utilizado por el equipo técnico de 
 
 ---
 
+## Galeria
+
+<img width="1124" height="463" alt="Captura de pantalla 2026-09-10 112521" src="https://github.com/user-attachments/assets/32e8b067-0b5f-4edb-aaca-c4d81dc40e24" />
+
+<img width="490" height="490" alt="0_Dolphyccino" src="https://github.com/user-attachments/assets/f90a1af5-04d0-4f8a-8dfb-fe416a1914f4" />
+
+
 ## 📂 Estructura del Proyecto
 
 ```text
@@ -165,5 +172,5 @@ Bash
 python main.py
 
     Nota: Al ejecutar main.py, el script creará automáticamente la estructura de directorios necesaria (data/, logs/, qr_generados/ y reportes/) si aún no existen en tu entorno local.
-
+```
 **P.D.** Hay planes para refactorizar la lógica de mensajes y dar mayor flexibilidad a la gestión dinámica de plantillas; sin embargo, el desarrollo se encuentra pausado temporalmente debido a otros proyectos prioritarios en **Helados Dolphy**.
