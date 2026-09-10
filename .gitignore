@@ -1,0 +1,60 @@
+# ==========================================
+# Entornos Virtuales
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+.venv_casa/
+
+# ==========================================
+# Caching y Compilados de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ==========================================
+# PyInstaller y Artefactos de Compilacion
+# ==========================================
+build/
+dist/
+*.manifest
+*.spec
+
+# Excepcion: Mantener el .spec del proyecto rastreado en Git
+!"Envio Cupones.spec"
+
+# ==========================================
+# Variables de Entorno y Secretos
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# ==========================================
+# Datos Dinamicos, Logs y Salidas del Sistema
+# ==========================================
+data/*.db
+data/*.sqlite3
+logs/
+*.log
+qr_generados/
+reportes/*.xlsx
+.xlsx
+
+# Excepcion: Mantener la carpeta con su .gitkeep
+!data/.gitkeep
+!logs/.gitkeep
+!qr_generados/.gitkeep
+!reportes/.gitkeep
+
+# ==========================================
+# Configuraciones de Editor / IDE
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
