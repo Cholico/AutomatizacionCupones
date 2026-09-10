@@ -61,7 +61,7 @@ Dado que este sistema está destinado a ser utilizado por el equipo técnico de 
 
 ---
 
-## Galeria
+## 🖼️ Galeria
 
 <img width="1124" height="463" alt="Captura de pantalla 2026-09-10 112521" src="https://github.com/user-attachments/assets/32e8b067-0b5f-4edb-aaca-c4d81dc40e24" />
 
